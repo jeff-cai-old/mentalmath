@@ -2,18 +2,16 @@
 ##mental math trainer written in python
 
 ##Goals
-Outputs math equations on command line for user to solve.
+Outputs math equations for user to solve.
 
 ##Overview
+Choose which operations to train!
 Currently supported operations:
-- + addition
-- - subtraction
-- *
-- //
+- +     addition
+- -     subtraction
+- *     multiplication
+- //    floored division
 
 ##Future directions
 
-- More interactivity
-- Choose which operations to train
-- Implement class structure (more for learning experiment)
-
+Move away from hardcoded difficulty modifier. Perhaps user difficulty choice?
