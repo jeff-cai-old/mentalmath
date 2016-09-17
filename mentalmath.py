@@ -11,7 +11,7 @@ import numpy as np
 def user_ops():
     """User chosen operations, return a list for random.choice()."""
 
-    user_ops = input("choose operations: \
+    user_ops = input("choose operations: \n (example: '124')\
         \n 1 = + \n 2 = - \n 3 = * \n 4 = // \n" )
     L=[]
     for i in range(1,5):
